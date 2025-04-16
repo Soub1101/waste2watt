@@ -52,6 +52,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## Website link
-
-link: https://india-watt-vision.lovable.app/
